@@ -6,3 +6,5 @@ To change the directory to where your game is, right click the .bat and edit the
 # Preview
 ![Preview1](https://user-images.githubusercontent.com/72883108/169705729-8d7da18b-e6b2-4691-b443-ac9e35c874f5.png)
 ![Preview2](https://user-images.githubusercontent.com/72883108/169705748-703415cb-0125-49b3-92ef-a4dd4d6929c5.png)
+# Discord
+Join the discord! https://discord.gg/mTk5mx7ZY2
