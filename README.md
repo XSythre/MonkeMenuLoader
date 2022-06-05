@@ -1,5 +1,5 @@
 ![banana](https://user-images.githubusercontent.com/72883108/169705624-67814a9c-5192-4d95-bc37-a02c8cd75367.png)
-# MonkeMenuLoader-1.0.0
+# MonkeMenuLoader
 An automatic menu loader that downloads from the internet. "𝘧𝘰𝘳 𝘵𝘩𝘦 𝘭𝘢𝘻𝘺"
 # Select Directory 
 Use the "Custom Directory" feature
